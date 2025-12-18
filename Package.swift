@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "FlutterBinarySDK",
             url: "https://github.com/Nikhlesh-04/FlutterBinarySPM/releases/download/1.0.1/FlutterBinarySDK.zip",
-            checksum: "13e9a45e37aba5bfcf19bdeb48e3be0933e9d82349817b3116d1bb426"
+            checksum: "632159f2e3ca1fda7a0a5e17b732d296840ed5033793ab062675f7de12b2b35c"
         )
     ]
 )
